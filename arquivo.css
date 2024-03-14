@@ -53,3 +53,11 @@
     --bs-form-invalid-color: #ea868f;
     --bs-form-invalid-border-color: #ea868f;
   }
+  div {
+    display: flex;
+    justify-content: center;
+  }
+  
+  img {
+    width: 60%;
+  }
